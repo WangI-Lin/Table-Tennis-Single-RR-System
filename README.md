@@ -39,4 +39,7 @@ Google Sheets serves as the UI and data layer, with Apps Script V8 running the b
 ## License
 
 MIT License — free for personal, modified, and commercial use. See [LICENSE](LICENSE).
+
+## Contact
+
 ilinwang0901@gmail.com
